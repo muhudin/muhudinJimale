@@ -6,7 +6,6 @@ Hello, my name is Muhiyadin.  I am currently  studying for a Degree Programme in
 
 Skills: JS / HTML / CSS, JQUERY,  Bootstrap, UX/UI design,
 
-- 🔭 I’m currently working on this page. 
 
 
 
